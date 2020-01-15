@@ -11,7 +11,7 @@
         qualquer nome que você queira nomeá-la, segue exemplo:
 */
 
-var String;
+var myString;
 
 /*
      Nota:
@@ -33,7 +33,7 @@ var String;
 
 /* Depois de declarar uma variável, você pode dar a ela um valor: */
 
-    String = "Olá mundo!"
+    myString = "Olá mundo!"
 /* Você pode fazer as duas operações na mesma linha se quiser: */
     var Variável = "Olá mundo!"
 /* Depois de dar à variável um valor, você pode mudá-lo: */
@@ -97,6 +97,4 @@ var String;
         para fazer qualquer coisa interessante em programação. Se os valores não pudessem
         mudar, então você não poderia fazer nada dinâmico, como personalizar uma mensagem
         de boas-vindas, ou mudar a imagem mostrada em uma galeria de imagens.
-*/
-
-/* Continua... */
+                                  CONTINUA...                                         */
